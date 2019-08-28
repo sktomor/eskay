@@ -4,8 +4,8 @@ Welcome! This page is maintained by Sarah Kiden, as part of her OpenDoTT journey
 
 # Bio
 <html>
-  <img src="https://github.com/MsKiden/eskay.github.io/blob/master/images/IMG_5187.JPG"
-    width=200
+  <img src="https://github.com/MsKiden/eskay.github.io/blob/master/images/IMG_6603-copy.png"
+    width=150
   </img>
 </html>
 
