@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
-title: Welcome to SK's website!
+# title: Welcome to SK's website!
+title-img: /images/IMG_5187.JPG
 description: I will use this page to document my OpenDoTT journey and previous projects!
 avatar: "/images/IMG_5187.JPG"
