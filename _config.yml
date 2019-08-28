@@ -1,6 +1,11 @@
 theme: jekyll-theme-minimal
 title: Welcome to SK's website!
 
-avatar: https://github.com/settings/profile
+# use a logo image in your nav bar.
+use_logo: true
+
+# logo image to use. logo images are constrained at 50px in height.
+logo: /images/IMG_5187.JPG
+# avatar: https://github.com/settings/profile
 
 description: I will use this page to document my OpenDoTT journey and previous projects!
